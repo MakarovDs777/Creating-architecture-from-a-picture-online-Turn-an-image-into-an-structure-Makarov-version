@@ -1,0 +1,1 @@
+# -Creating-architecture-from-a-picture-online-Turn-an-image-into-an-structure-Makarov-version
