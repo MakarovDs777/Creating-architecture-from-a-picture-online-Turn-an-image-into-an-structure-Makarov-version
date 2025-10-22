@@ -4,10 +4,7 @@
 
 [Creating architecture from a picture but these are OBJ structures! | Babylon.js Playground](https://playground.babylonjs.com/#KIWHBS#0)
 
-
 [Stepped Ground with an input field | Babylon.js Playground](https://playground.babylonjs.com/#K3QNSH#0)
-
-[]()
 
 [Stepped Ground with a field for overlaying the image on the map | Babylon.js Playground](https://playground.babylonjs.com/#KNHI1D#0)
 
@@ -16,6 +13,8 @@
 [Creating architecture from a picture - final version! | Babylon.js Playground](https://playground.babylonjs.com/#1BJYQB#0)
 
 [Creating two images using two input fields | Babylon.js Playground](https://playground.babylonjs.com/#8GI5RC#0)
+
+[Creating 3 images using 3 input fields with image size scaling | Babylon.js Playground](https://playground.babylonjs.com/#KNSXRK#0)
 
 [Creating architecture from a picture (According to the gradient of lightness and darkness) | Babylon.js Playground](https://playground.babylonjs.com/#JBHZRK#1)
 
@@ -26,8 +25,6 @@
 [Creating architecture 3D from a texture viewer (Makarov version 0) | Babylon.js Playground](https://playground.babylonjs.com/#72Y4BS#1)
 
 [Creating architecture 3D from a texture viewer (Makarov version 1 - With an erase button) | Babylon.js Playground](https://playground.babylonjs.com/#E7U4SD#0)
-
-
 
 [Creating architecture 3D from a texture viewer (Makarov version 3 - step, texture, scale, size (fields)) | Babylon.js Playground](https://playground.babylonjs.com/#JP0DRA#0)
 
