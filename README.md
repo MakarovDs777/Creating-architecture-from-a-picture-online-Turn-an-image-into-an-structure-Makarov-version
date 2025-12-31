@@ -1,6 +1,6 @@
 # Creating-architecture-from-a-picture-online-Turn-an-image-into-an-structure-Makarov-version
 
-[Creating architecture from a picture but these are OBJ structures! | Babylon.js Playground](https://playground.babylonjs.com/#KIWHBS#0)
+[Creating architecture from a picture but these are OBJ structures! | Babylon.js Playground](https://playground.babylonjs.com/#KIWHBS#1)
 
 [Stepped Ground | Babylon.js Playground](https://playground.babylonjs.com/#F81C75#5)
 
